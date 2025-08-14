@@ -4,7 +4,7 @@
 <img width="500" height="750" alt="kosvak_truebeard" src="https://github.com/user-attachments/assets/1b5b932a-e9f8-45ee-8363-ef7c88818d74" />
 
 ## Physical Description
-Sun-browned by years beneath distant skies and deep tunnels, Kosvak Truebeard bears the unmistakable mark of his mixed heritage. From his Dark Iron bloodline blaze a pair of fiery red eyes — like embers banked in the forge — ever watchful and keen. Heavy brows rest in a perpetual furrow, lending him the semblance of stern judgment, though those who linger soon learn the truth: behind the granite mask lies a warm heart and a wit as quick as a struck spark.
+Sun-browned by years beneath distant skies and deep tunnels, Kosvak Truebeard bears the unmistakable mark of his mixed heritage. From his Dark Iron bloodline blaze a pair of fiery red eyes — like embers banked in the forge — ever watchful and keen. Heavy brows rest in a perpetual furrow, lending him the semblance of stern judgment, but those who spend time in his presence soon learn the truth: behind the granite mask lies a warm heart and a wit as quick as a struck spark.
 A broad, bulbous nose and weathered features give him the rugged charm of one well-traveled and well-tested. His beard and mustache, thick as braided rope and black as the deep coal seams, frame a face shaped by both toil and laughter. What hair remains atop his head is tamed into a short, practical tail at the nape of his neck — the rest long since claimed by time and battle’s demands.
 Of average height for his kind yet solid as quarried stone, Kosvak’s body bears the stocky, muscular build of a true dwarf: a frame forged for endurance, stubborn as the mountains of Khaz Modan themselves
 
