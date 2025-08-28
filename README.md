@@ -1,7 +1,7 @@
 
 # Kosvak Truebeard - World of Warcraft Character Profile
 
-<img width="500" height="500" alt="kosvak dark iron" src="https://github.com/user-attachments/assets/412622a9-8124-4006-9035-22ac0f590c09" />
+<img width="500" height="750" alt="kosvak dark iron" src="https://github.com/user-attachments/assets/412622a9-8124-4006-9035-22ac0f590c09" />
 
 ## Physical Description
 Sun-browned by years beneath distant skies and deep tunnels, Kosvak Truebeard bears the unmistakable mark of his mixed heritage. From his Dark Iron bloodline blaze a pair of fiery red eyes — like embers banked in the forge — ever watchful and keen. Heavy brows rest in a perpetual furrow, lending him the semblance of stern judgment, but those who spend time in his presence soon learn the truth: behind the granite mask lies a warm heart and a wit as quick as a struck spark.
